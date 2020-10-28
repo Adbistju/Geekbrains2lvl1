@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7803078e-91a0-463e-9b3f-7bd862e65941" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/G2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/G2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +102,11 @@
     </state>
     <state width="1237" height="238" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600515099566" />
     <state width="1877" height="400" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600516729078" />
-    <state x="504" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1600516845282">
+    <state x="504" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1600522352322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="336" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1600514949878" />
-    <state x="504" y="249" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600516845282" />
+    <state x="504" y="249" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600522352322" />
     <state x="444" y="229" key="run.anything.popup" timestamp="1600515644007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
